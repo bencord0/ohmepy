@@ -31,6 +31,7 @@ class SummaryGranularity(Enum):
 
     DAY = "DAY"
     HOUR = "HOUR"
+    HALF_HOUR = "HALF_HOUR"
 
 
 class Money(TypedDict):
